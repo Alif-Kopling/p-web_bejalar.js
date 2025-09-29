@@ -1,1 +1,2 @@
-// File ini untuk contoh kode Javascript
+onsole.log("Saya belajar Javascript");
+        document.write("Hello World!");
